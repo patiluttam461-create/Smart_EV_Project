@@ -1,0 +1,8 @@
+# Smart EV Battery Management System - ANFIS Engine Dependencies
+flet>=1.0.0
+flet-desktop>=1.0.0
+numpy>=2.0.0
+pandas>=2.0.0
+scikit-learn>=1.5.0
+joblib>=1.4.0
+python-dotenv>=1.0.0
